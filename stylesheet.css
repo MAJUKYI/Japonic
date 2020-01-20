@@ -1,0 +1,14 @@
+.HeaderInner{
+  margin: auto;
+  max-width: 500px;
+  background: linear-gradient(rgb(150, 150, 236), ghostwhite);
+  padding: 10px;
+  font-family: fantasy;
+}
+.muy{
+  margin: auto;
+  max-width: 500px;
+  background-color: aliceblue;
+  padding: 10px;
+  font-family: serif;
+}
